@@ -1,4 +1,4 @@
-# Smooth-VsCode
+# Smooth-VsCode | Плавный-VsCode
 If you want to make your cursor and typing smoother. Follow the steps below:
 
 Open Visual Studio Code > Go to settings and type "settings.json" > paste this code at the end of the file:
